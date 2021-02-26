@@ -28,10 +28,15 @@
       margin: 7px 0 0 7px;
       background-color: black;
       border-radius: 100%;
-      opacity: 60%;
+      opacity: 30%;
       padding: 4px;
       padding-bottom: 0;
       cursor: move;
+
+      .MuiSvgIcon-root{
+        width: 1.5em;
+        height: 1.5em;
+      }
     }
   }
   
