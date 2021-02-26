@@ -19,9 +19,6 @@
     }
   }
   .couverture{
-    img{
-      display: block;
-    };
     
     .deplacer{
       position: absolute;
@@ -37,6 +34,10 @@
         width: 1.5em;
         height: 1.5em;
       }
+    }
+
+    img{
+      display: block;
     }
   }
   
