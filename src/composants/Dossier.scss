@@ -38,9 +38,10 @@
 
   button{
     align-self: flex-end;
-    margin-top: -35px;
+    margin: -35px 5px 0 0;
     background-color: transparent;
     border: none;
+    padding: 0;
     color: white;
     cursor: pointer;
     &:focus{
